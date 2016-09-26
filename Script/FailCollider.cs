@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 using System.Collections;
-
+//zxczcxz
 public class FailCollider : MonoBehaviour {
 
 	// Use this for initialization
